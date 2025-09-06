@@ -1,0 +1,66 @@
+# Core libraries
+numpy
+Pillow
+opencv-python
+pydantic
+
+# Data manipulation & analysis
+pandas
+scipy
+scikit-learn
+h5py
+
+# Deep learning (CPU installs often included by default, adjust as needed)
+# torch
+# torchvision
+
+# Image utilities
+scikit-image
+albumentations
+
+# Language processing
+transformers
+spacy
+nltk
+
+# Plotting & visualization
+matplotlib
+seaborn
+
+# Web backends (for optional API usage)
+Flask
+FastAPI
+
+# Helpers
+tqdm
+joblib
+PyYAML
+
+# Interactive dev
+jupyter
+ipython
+
+# Testing framework
+pytest
+
+# Logging and styled output
+rich
+colorama
+
+# Audio tools (reserved for later use)
+librosa
+
+# Compression methods
+zstandard
+lz4
+
+# Optimized data formats
+pyarrow
+
+# Serialization methods
+msgpack
+protobuf
+
+# Miscellaneous
+requests
+beautifulsoup4
